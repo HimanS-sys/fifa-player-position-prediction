@@ -27,3 +27,5 @@ The game is not to be confused with the official International Federation for Fo
 ### model accuracy comparison
 <img src = 'https://github.com/HimanS-sys/fifa-player-position-prediction/blob/main/assets/images/AI1-Results.png'>
 <img src = 'https://github.com/HimanS-sys/fifa-player-position-prediction/blob/main/assets/images/result-comparison.png'>
+
+[click here for presentaion.](https://github.com/HimanS-sys/fifa-player-position-prediction/tree/main/FIFA_Project.pdf)
